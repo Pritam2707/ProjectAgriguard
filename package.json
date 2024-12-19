@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@headlessui/react": "^2.2.0",
+    "@heroicons/react": "^2.2.0",
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "@vite-pwa/assets-generator": "^0.2.6",
+    "cloudinary": "^2.5.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "firebase-admin": "^13.0.1",
+    "node-webcam": "^0.8.2",
+    "pg": "^8.13.1",
+    "vite-plugin-pwa": "^0.21.1"
+  }
+}
